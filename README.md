@@ -30,30 +30,30 @@
 # Screenshot
 - **Dashboard**
 <picture>
-    <img src="assets/media/screenshot/1.PNG" alt="Dashboard">
+    <img src="assets/media/screenshoot/1.PNG" alt="Dashboard">
 </picture>
 
 - **Project**
 <picture>
-    <img src="assets/media/screenshot/2.PNG" alt="Project">
+    <img src="assets/media/screenshoot/2.PNG" alt="Project">
 </picture>
 
 - **Analyst**
 <picture>
-    <img src="assets/media/screenshot/3.PNG" alt="Analyst">
+    <img src="assets/media/screenshoot/3.PNG" alt="Analyst">
 </picture>
 
 - **Schedule**
 <picture>
-    <img src="assets/media/screenshot/4.PNG" alt="Schedule">
+    <img src="assets/media/screenshoot/4.PNG" alt="Schedule">
 </picture>
 
 - **Task**
 <picture>
-    <img src="assets/media/screenshot/5.PNG" alt="Task">
+    <img src="assets/media/screenshoot/5.PNG" alt="Task">
 </picture>
 
 - **Report**
 <picture>
-    <img src="assets/media/screenshot/6.PNG" alt="Report">
+    <img src="assets/media/screenshoot/6.PNG" alt="Report">
 </picture>
